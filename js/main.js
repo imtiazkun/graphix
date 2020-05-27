@@ -76,7 +76,7 @@ class Graph {
     // Called Whenever any point is clicked
     // PointOnClick = (point) => {
     //     if(point.classList.contains("start")){
-    //         console.log("first point");
+    //         console.log("first po1`int");
     //     }
     // }
 
